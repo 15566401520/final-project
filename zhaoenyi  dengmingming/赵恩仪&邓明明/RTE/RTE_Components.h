@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'final-project' 
- * Target:  'final' 
+ * Project: '320' 
+ * Target:  'LPC1114' 
  */
 
 #ifndef RTE_COMPONENTS_H
